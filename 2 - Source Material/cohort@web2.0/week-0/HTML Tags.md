@@ -4,13 +4,7 @@ Status : #baby
 
 Tags : [[html]] 
 
-
->[!SUMMARY]- Table of Contents
-```table-of-contents
-style: nestedOrderedList
-```
-
-# HTML Tags
+# List of HTML Tags
 1. `<html>`
 2. `<head>`
 3. `<title>`
