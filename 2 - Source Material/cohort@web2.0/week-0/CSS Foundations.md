@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[css]] 
+Tags : [[css]] [[introduction]]
 
 ## Key Points:
 1. **Styling**: CSS is used to add visual styles to your website, including colors, font sizes, background colors, and more.
@@ -10,7 +10,6 @@ Tags : [[css]]
 3. **Modern Practices**: Instead of using the deprecated `<center>` tag, CSS Flexbox is now commonly used for centering and positioning elements.
 
 **Common Styling Attributes:**
-
 1. **color**: Sets the text color.
 2. **background**: Defines the background color or image.
 3. **border-radius**: Rounds the corners of an element's border.
