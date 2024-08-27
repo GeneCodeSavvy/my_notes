@@ -9,11 +9,11 @@ Tags : [[html]]
 2. `<head>`
 3. `<title>`
 4. `<body>`
-5. `<div>`/`<span>` [[<div> tag]] [[<span> tag]]
-6. `<h1>`....`<h6>` [[<h1>....<h6> tags]]
+5. `<div>`/`<span>` 
+6. `<h1>`....`<h6>`
 7. `<p>` `-used for specifying paragraphs`
-8. `<img>` [[<img> tag]]
-9. `<a>` [[<a> tag]]
+8. `<img>`
+9. `<a>`
 10. input
 11. `<button>` 
 12. `<b>`/ `<i>` `- bolds and italics`

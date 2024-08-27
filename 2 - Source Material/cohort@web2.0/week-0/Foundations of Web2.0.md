@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[introduction]] [[html]] [[css]]
+Tags : [[introduction]] 
 
 # Key points:
 -  Browsers are used to render websites, they are meant to understand html/css

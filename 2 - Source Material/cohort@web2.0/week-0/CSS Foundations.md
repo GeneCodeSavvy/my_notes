@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[css]] [[introduction]]
+Tags : [[css]]
 
 ## Key Points:
 1. **Styling**: CSS is used to add visual styles to your website, including colors, font sizes, background colors, and more.

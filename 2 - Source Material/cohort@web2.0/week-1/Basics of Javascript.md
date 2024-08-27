@@ -2,7 +2,8 @@
 
 Status : #baby
 
-Tags : [[introduction]]
+Tags : [[javascript]]
+
 
 
 
@@ -15,7 +16,7 @@ style: nestedOrderedList
 
 JavaScript is a high-level, dynamic, and interpreted programming language that is primarily used for enhancing the interactivity of web pages. It allows developers to create dynamically updating content, control multimedia, animate images, and pretty much everything else. It is a core technology of the World Wide Web, alongside HTML and CSS.
 
-# Data Types
+# Data Types in JavaScript
 
 JavaScript can store information in the following data types:
 1. `undefined` - A variable that has not been assigned a value.
@@ -26,7 +27,7 @@ JavaScript can store information in the following data types:
 6. `object` - Used to store collections of data and more complex entities. 
 
 
-# Declaring Variables
+# Declaring Variables in JavaScript
 
 In JavaScript, variables can be declared using three keywords: `var`, `let`, and `const`.
 
@@ -43,7 +44,7 @@ In JavaScript, variables can be declared using three keywords: `var`, `let`, and
    - Cannot be updated or re-declared.
 
 
-# Initialising Variables
+# Initialising Variables in JavaScript
 
 Initialising a variable means assigning it a value at the time of declaration. Remember that variable name are case sensitive.
 1. Using `var`
@@ -61,6 +62,28 @@ let b = 2;
 const c = 3;
 ```
 
+
+
+# Logical Operators in JavaScript
+
+1. AND operator - &&
+2. OR operator - ||
+3. NOT operator - !
+
+
+# Mathematical Operators in JavaScript 
+
+1. Addition : +
+2. Subtraction : - 
+3. Multiplication : *
+4. Division : /
+
+
+# Comparison Operators in JavaScript
+
+1. greater than : >
+2. smaller than: <
+3. equal : ==
 
 
 # Increment and Decrement Operators in JavaScript
@@ -104,6 +127,11 @@ The decrement operator decreases the value of a variable by one. It also has two
   - `\uXXXX` : Unicode character (where XXXX is the 4-digit hexadecimal code)
   - `\xXX` : ASCII character (where XX is the 2-digit hexadecimal code)
 
-# Array Manipulation 
+# Array Manipulation in JavaScript
 
 https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/
+
+
+# Functions in JavaScript 
+
+It is a reusable block of code, that can be called anytime in the codebase.
