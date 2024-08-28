@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[css]]
+Tags : [[CSS Foundations]]
 
 
 >[!SUMMARY]- Table of Contents

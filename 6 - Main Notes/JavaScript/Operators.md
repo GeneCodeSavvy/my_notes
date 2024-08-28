@@ -23,6 +23,8 @@ There are following types of operators in JS:
 9. [Comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#comma_operator)
 10. [Unary operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#unary_operators)
 11. [Relational operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#relational_operators)
+12. Spread and Rest operators
+13. Optional Chaining operators 
 
 {{{typeof - gives the datatype of the value or variable. usage  ``` const example = typeof 124```. typeof null returns an object which is a bug in javascript.}}}
 ## **References** 

@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[html]] 
+Tags : [[HTML]] 
 
 # List of HTML Tags
 1. `<html>`

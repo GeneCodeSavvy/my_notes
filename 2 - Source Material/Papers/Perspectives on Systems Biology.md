@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[introduction]] [[systems biology]] 
+Tags : [[introduction]] [[quantitative biology, systems biology]] 
 
 
 >[!SUMMARY]- Table of Contents

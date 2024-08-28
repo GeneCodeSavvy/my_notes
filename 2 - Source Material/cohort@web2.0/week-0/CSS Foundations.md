@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[css]]
+Tags : [[Foundations of Web2.0]]
 
 ## Key Points:
 1. **Styling**: CSS is used to add visual styles to your website, including colors, font sizes, background colors, and more.
@@ -17,3 +17,6 @@ Tags : [[css]]
 5. **padding/margin**: Controls the spacing inside (padding) and outside (margin) an element.
 6. **box-shadow**: Adds shadow effects around an element.
 7. **display**: Specifies the display behavior (block, inline, flex, etc.) of an element.
+
+
+[[Foundations of Web2.0]]

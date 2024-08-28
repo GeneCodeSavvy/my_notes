@@ -2,7 +2,7 @@
 
 Status : #baby
 
-Tags : [[javascript]]
+Tags : [[Foundations of Web2.0]]
 
 
 
@@ -135,3 +135,5 @@ https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/
 # Functions in JavaScript 
 
 It is a reusable block of code, that can be called anytime in the codebase.
+
+[[Foundations of Web2.0]]
