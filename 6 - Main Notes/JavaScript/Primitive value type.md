@@ -1,4 +1,4 @@
-Tags: [[Datatypes]]
+Tags: [[Value Types]]
 
 Primitive datatypes contain 7 types of values 
 1. Numbers : Floating point numbers => Used for decimals and integers

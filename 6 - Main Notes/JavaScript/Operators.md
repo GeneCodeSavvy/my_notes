@@ -1,10 +1,10 @@
-Tags: [[Basics of Javascript]]
+Tags: [[Basics of Javascript]] [[Expression Statements]]
 
 Status : #mature 
 
 2024-08-26 20:01
 
-JavaScript has both _binary_ and _unary_ operators, and one special ternary operator, the conditional operator. A binary operator requires two operands, one before the operator and one after the operator:
+JavaScript has both _binary_ and _unary_ operators, and one special ternary operator, the conditional operator. Operands can be variable or values. A binary operator requires two operands, one before the operator and one after the operator:
 
 ```
 operand1 operator operand2

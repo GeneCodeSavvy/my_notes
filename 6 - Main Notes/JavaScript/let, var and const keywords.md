@@ -2,7 +2,7 @@
 
 Status : #mature 
 
-Tags : [[Initialisation vs Declaration]]
+Tags : [[Declarative Statements]]
 
 These keywords are used for declaring variables in JavaScript.
 

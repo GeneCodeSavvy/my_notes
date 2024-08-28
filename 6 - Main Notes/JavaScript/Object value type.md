@@ -2,7 +2,7 @@
 
 Status :
 
-Tags : [[Datatypes]]
+Tags : [[Value Types]]
 
 
 

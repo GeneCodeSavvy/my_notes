@@ -1,4 +1,4 @@
-Tags: [[Basics of Javascript]]
+Tags: [[Operators]]
 
 In JS there is a difference between values and variable. The value hold the different data-types not the variable.
 There are 2 general value types in JS:

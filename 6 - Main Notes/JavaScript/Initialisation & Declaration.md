@@ -2,7 +2,7 @@
 
 Status : #mature
 
-Tags : [[Basics of Javascript]]
+Tags : [[Expression Statements]] [[Declarative Statements]]
 
 1. **Declaration**
    1. Declaration is the process of creating a variable without assigning it a value.
@@ -33,6 +33,10 @@ const e = [1, 2, 3];
 // Assigning values (initialization) after declaration
 a = 5;
 b = "World";
+
+let y;  // Declaration statement (no initialization)
+y = 10;  // Expression statement (initialization)
+
 ```
 
 ## **References** 
