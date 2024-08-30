@@ -1,8 +1,10 @@
-2024-08-28 17:36
+2024-08-28 20:10
 
 Status : #baby 
 
-Tags : [[Statements]]
+Tags : [[Other Specialised Statements]]
+
+---
 
 - `with`
 - `label`
@@ -11,7 +13,7 @@ Tags : [[Statements]]
 - `this`
 - `new`
 - `super`
-- **Strict Mode**
+- `strict mode`
 
 ## **References** 
 
