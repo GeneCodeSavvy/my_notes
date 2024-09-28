@@ -2,7 +2,7 @@
 
 Status : #mature 
 
-Tags : [[Function Expression]] [[Function Declaration]]
+Tags : [[Functions]]
 
 ---
 ### JavaScript: Immediately Invoked Function Expression (IIFE)

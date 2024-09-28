@@ -2,7 +2,7 @@
 
 Status :
 
-Tags : [[Declarative Statements]] [[Function Expression]]
+Tags : [[Declarative Statements]] [[Function Expression]] [[Functions]]
 
 ---
 ## Overview

@@ -2,7 +2,7 @@
 
 Status : #baby
 
-Tags : [[Foundations of Web2.0]]
+Tags : [[How the Browser Works]]
 
 
 
@@ -136,4 +136,4 @@ https://www.freecodecamp.org/news/manipulating-arrays-in-javascript/
 
 It is a reusable block of code, that can be called anytime in the codebase.
 
-[[Foundations of Web2.0]]
+[[How the Browser Works]]

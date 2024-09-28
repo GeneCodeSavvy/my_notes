@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[Core Concepts]]
+Tags : [[Functions]] [[Scope]]
 
 ---
 

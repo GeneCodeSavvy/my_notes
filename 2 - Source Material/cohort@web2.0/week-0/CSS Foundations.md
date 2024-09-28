@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[Foundations of Web2.0]]
+Tags : [[How the Browser Works]]
 
 ## Key Points:
 1. **Styling**: CSS is used to add visual styles to your website, including colors, font sizes, background colors, and more.
@@ -19,4 +19,4 @@ Tags : [[Foundations of Web2.0]]
 7. **display**: Specifies the display behavior (block, inline, flex, etc.) of an element.
 
 
-[[Foundations of Web2.0]]
+[[How the Browser Works]]

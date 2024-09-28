@@ -2,7 +2,7 @@
 
 Status : #baby 
 
-Tags : [[Object Specific Built-in Functions]] [[Expression Statements]]
+Tags : [[Strings]] [[Expression Statements]]
 
 ---
 

@@ -2,7 +2,7 @@
 
 Status : #mature 
 
-Tags : [[Expression Statements]]
+Tags : [[Expression Statements]] [[Functions]]
 
 ---
 ## Overview
